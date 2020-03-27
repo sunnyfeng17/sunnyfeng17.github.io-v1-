@@ -1,7 +1,4 @@
 h1 {
-    /* font-weight: 600;
-    color: #74C1FF;
-    opacity: 50%; */
     text-align: center;
     font-weight: 700;
     font-size: 3vw;
@@ -17,8 +14,6 @@ h1 {
 }
 
 /* Text animations */
-
-
 
 /* For H1 */
   @-webkit-keyframes text-focus-in {
